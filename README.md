@@ -1,4 +1,1 @@
-# Audio Event Detection
-
-## EE698V Course Project
-
+# EE698V-Project
